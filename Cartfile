@@ -1,1 +1,1 @@
-github "ReactiveCocoa/ReactiveCocoa" ~> 2.4.3
+git "https://github.com/ashfurrow/ReactiveCocoa.git" "3.0.0-alpha.1"
